@@ -1,2 +1,1 @@
 beginquote__Thomas_F.html
-textbfBibliography__.html
