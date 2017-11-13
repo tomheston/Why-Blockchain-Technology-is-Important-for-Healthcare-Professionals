@@ -1,3 +1,2 @@
 beginquote__Thomas_F.html
-textbf4_Future_Direc.html
 textbfBibliography__.html
